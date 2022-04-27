@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #873124;
+
+  }
+  
+  h2 {
+    font-family: 'Updock', cursive;
+    font-size: 4rem;
+    text-align: center;
+    color: #d99c70;
+    font-weight: bold;
+  }
+  .h4,.h5, .h6{
+    font-family: 'Tapestry', cursive;
+  }
+  .menu {
+    margin-top: 20px;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+  }
+  .btn-item {
+    margin-left: 15px;
+  }
+  
+  .photo {
+    width: 30%;
+    height: 175px;
+    object-fit: cover;
+    border: 0.25rem solid black;
+    border-radius: 10px;
+  }
+  .menu-items {
+    display: flex;
+    margin: 20px 0;
+  }
+  .menu-info {
+    margin-left: 20px;
+    width: 100%;
+  }
+  .menu-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+  }
+  
+  h4 {
+    color: #e00a00;
+  }
+  
+  .menu-text {
+    padding-top: 20px;
+  }
