@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+
+
 * {
     box-sizing: border-box;
   }
@@ -63,3 +63,4 @@
   .menu-text {
     padding-top: 20px;
   }
+  /*  */
