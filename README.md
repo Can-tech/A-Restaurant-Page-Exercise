@@ -1,1 +1,3 @@
-# A-Restaurant-Page-Exercise
+# A Restaurant Page Exercise
+
+-The exercise in the patika dev course.
